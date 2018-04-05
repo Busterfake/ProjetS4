@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1522575070 source:c:\users\sarah\desktop\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522575426 c:\users\sarah\desktop\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522759986 source:c:\users\sarah\desktop\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522539042 c:\users\sarah\desktop\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222374 c:\users\sarah\desktop\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522755632 c:\users\sarah\desktop\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522755632 source:c:\users\sarah\desktop\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522836841 source:c:\users\sarah\desktop\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<map>
+	"graph.h"
+
+1522843979 c:\users\sarah\desktop\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	<iostream>
+	"grman/grman.h"
+	"Sommet.h"
+	"Arete.h"
+
+1522846608 source:c:\users\sarah\desktop\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<fstream>
+	<iostream>
+
+1522844158 c:\users\sarah\desktop\graph_lib_exemple_graph\sommet.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522844109 c:\users\sarah\desktop\graph_lib_exemple_graph\arete.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+	"Sommet.h"
+
+1522834899 source:c:\users\sarah\desktop\graph_lib_exemple_graph\sommet.cpp
+	"Sommet.h"
+
+1522842940 source:c:\users\sarah\desktop\graph_lib_exemple_graph\arete.cpp
+	"Arete.h"
+
+1522848347 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\arete.cpp
+	"Arete.h"
+
+1522848347 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\arete.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+	"Sommet.h"
+
+1522849741 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522848348 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522848348 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522946271 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522942121 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\sommet.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522949965 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<fstream>
+	<iostream>
+
+1522949271 c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	<iostream>
+	"grman/grman.h"
+	"Sommet.h"
+	"Arete.h"
+
+1522848348 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522919277 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522949520 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522936917 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<map>
+	<allegro.h>
+	"graph.h"
+
+1522942932 source:c:\users\xelou\documents\projet info theorie\graph_lib_exemple_graph\sommet.cpp
+	"Sommet.h"
+
